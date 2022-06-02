@@ -1,1 +1,14 @@
-hello
+Bug report
+
+Summery: Number one in github file editer can't be removed.
+
+Steps to reproduced:
+1. login in github 
+2. create new file 
+3. open file 
+4. click edit file icon 
+5. try to remove number one.
+
+Actual Result: Number one doesn't removed.
+
+Expected Result: Number one should be removed.
