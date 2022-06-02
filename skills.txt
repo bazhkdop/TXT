@@ -1,0 +1,9 @@
+skills:
+1) Gitbash
+2) Github
+3) Postman
+4) Jmeter
+5) CheckLists
+6) SQL
+7) Charles
+8) Mobile testing
