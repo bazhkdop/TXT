@@ -1,0 +1,5 @@
+firstName - Nastya
+lastName - Bazhkova
+age - 27
+pets -0
+salary - 10000
